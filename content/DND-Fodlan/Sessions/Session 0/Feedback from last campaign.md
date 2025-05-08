@@ -1,0 +1,16 @@
+Feedback:
+- RP in combat, uitlaggen bijv als je mist. en aanvallen beschrijven hoe dat eruit ziet. 
+- Timer niet te duidelijk maken.
+- Bepaald aantal beurten nog over meer gebruiken.
+- vuurballen van de lucht zodat mensen moeten bewegen is leuk.
+- nat 1's mogen meer bestraft worden, zoals fireball richt dan tegen de muur en alles laat instorten langzaam.
+- cursed items of curses als reactie op domme dingen.
+- Backstories in elkaar mixen, dus een broer of zus in iemand anders kerker
+- Geen weet je het zeker meer, Doe dat in roleplay. 
+- DM in NPC roleplay uitwerken in invullen. bijv soul.
+- NPC met elkaar meer praten, DM praat met zichzelf.
+- Zwakkere players boosten door items te geven en als ze te sterk worden kunnen de items weer gestolen zijn. 
+- Goed opletten bij combat op hoeveel damage de party kan doen en hoeveel hitpoints iemand kan hebben.
+- betere clifhangers zoals de feyenkoning die iemand doodtrapt en dan einde sessie.
+- Meer op te lossen puzzels. en niet alleen combat doen
+- RP zorgt ervoor dat je rol een beetje makkelijker kan worden of dat je advantage krijgt.
