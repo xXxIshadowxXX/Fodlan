@@ -1,3 +1,4 @@
+
 **Kalenderuitleg voor de wereld van Fodlan**
 
 Welkom helden! Hieronder vinden jullie een uitleg van hoe de tijd werkt in onze wereld, zodat jullie jullie avonturen goed kunnen plannen.
