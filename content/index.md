@@ -1,5 +1,8 @@
 ---
 title: Main document
+aliases:
+  - "created: 12/05/2025"
+  - "Last update: 12/05/2025"
 ---
 - Characters: Publieke informatie over de characters bijv met hoe ze eruit zien of dingen die alle parties weten.
 - Sessions: Notities over sessies die jullie mogen zien, of zelf willen opslaan over informatie in de sessie die je wilt opslaan.
