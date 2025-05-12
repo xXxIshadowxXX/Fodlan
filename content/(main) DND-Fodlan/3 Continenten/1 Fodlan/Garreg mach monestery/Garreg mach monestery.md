@@ -1,7 +1,7 @@
 
 ### Garreg mach monestery 
 In het centrum van de Oghma-bergen. Het hart van de Order of Spur, Dit speciale 'land' word door de Orde bestuurd en word vaak gezien als een vorm van centrale overheid voor het hele continent. Landen werken nou samen met de order in geval van calamiteiten.
-Dit 'land' dient ook als het hoofd van de religies voor: Helm, Lathander, Mystra, Oghma, Selune, tymora, Tyr, Umberlee and Waukeen.
+Dit 'land' dient ook als het hoofd van de religies voor de [[Goden]]: Helm, Lathander, Mystra, Oghma, Selune, tymora, Tyr, Umberlee and Waukeen.
 
 ### Culture 
 Het culturele centrum van het continent, hier komen topambachtslieden, geleerden en vanalles en nog wat uit heel fodlan naartoe. De klooster herbergdt een officiers accedemy en is een soort universiteit niet alleen voor commoners om beter te worden in hun proffesie. Maar ook (voornamelijk) voor nobels die graag geld geven om de elitaire opleiding aan hun kinderen te geven.

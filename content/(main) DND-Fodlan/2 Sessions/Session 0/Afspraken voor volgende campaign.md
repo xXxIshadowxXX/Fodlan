@@ -28,6 +28,7 @@ Game behavior:
 - Er moet een overkoepelend iets, net zoals vorige campaign maar spelers kunnen doen wat ze willen. Als spelers iets te vroeg tegen komen, komt zal er in RP een waarschuwing komen. 
 - Geen main character in de serie, Iedereen mag zijn spotlicht hebben en kan ook prima een sessie duren gewoon niet de campaign, Backstories die kwa DM punten even groot zijn zodat er vanalles in kan komen.
 - Rules debate: Meerderheid geld, erna opzoeken en wellicht verandere/huisregel van maken
+- we maken gebruik van deze set aan [[Goden]] als de vorige campaign.
 
 Ethics:
 - Gender: alle mogen zolang verkeerde pronouns gebruiken geen concecenties hebben
@@ -74,3 +75,5 @@ Death,
 Overig:
 - begin met een main quest,
 - volgende sessie Hexogonaal doen, als dat bevalt wellicht dat als map gebruiken en anders op vierkante mappen doorgaan
+  
+Vele van deze regels zijn te stand gekomen doorgebruik te maken van [[Feedback from last campaign]].
