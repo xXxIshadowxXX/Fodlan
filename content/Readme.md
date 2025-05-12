@@ -1,5 +1,0 @@
-- Characters: Publieke informatie over de characters bijv met hoe ze eruit zien of dingen die alle parties weten.
-- Sessions: Notities over sessies die jullie mogen zien, of zelf willen opslaan over informatie in de sessie die je wilt opslaan.
-- Continenten: hierin kun je meer diepgaan informatie wat start met continenten dan overgaat naar een land een stad etc. 
-- library: dit is voor mij om statblocks, mappen specifieke items heel makkelijk te kunenn opzoeken
-- Overig: Wat er over is
