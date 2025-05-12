@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Main document
 ---
 - Characters: Publieke informatie over de characters bijv met hoe ze eruit zien of dingen die alle parties weten.
 - Sessions: Notities over sessies die jullie mogen zien, of zelf willen opslaan over informatie in de sessie die je wilt opslaan.
