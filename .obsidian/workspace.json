@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "e4501b0417bce865",
+    "type": "split",
+    "children": [
+      {
+        "id": "92c30c54cb9ef71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2162066b9e8a9f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "962fd0e2e21fcf6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a285bc17cb86432d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3992406f5d8bb3a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40e41004be4c80c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c56169cc3ca6f4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "eb4a25a303b06e9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54504d6a3d03ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0663b170f65f1032",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78a8359671aae466",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_788898d8fa1b",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 12,
+                    "month": 3,
+                    "year": 765
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_aa79b89a080a",
+                "child": "ID_0a2a591b5809"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "44bfed8c529a8759",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_b94acb693a68",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 5,
+                    "month": 2,
+                    "year": 891
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_299939a84a19"
+                },
+                "id": "ID_79ea1b892a4b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "b8fab3f4ab83709b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "162d62473b11d5f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "69e3fcfd2beba2bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "82ac321c07a6d1f6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {},
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "2162066b9e8a9f41",
+  "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "Untitled",
+    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/Goden.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Garreg mach monestery/Garreg mach monestery.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
+    "content/(main) DND-Fodlan/3 Continenten/Almyra/Almyra.md",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/Feedback from last campaign.md",
+    "1 dm notes/1 Characters/Ralf/Mart Character.md",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Boramas.png",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Korena_ Coastal City.png",
+    "1 dm notes/1 Characters/Vuelsa/Amber Character.md",
+    "1 dm notes/1 Characters/Talon Kratos/Niek Character.md",
+    "1 dm notes/1 Characters/Mr Nimbus/Jochem Character.md",
+    "content/(main) DND-Fodlan/3 Continenten/Morfis/Morfis.md",
+    "content/(main) DND-Fodlan/3 Continenten/Almyra",
+    "content/(main) DND-Fodlan/3 Continenten/Fodlan/A",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Garreg mach monestery",
+    "content/(main) DND-Fodlan/3 Continenten/Morfis",
+    "content/(main) DND-Fodlan/3 Continenten/Untitled.md",
+    "1 dm notes/1 Characters/Ralf",
+    "1 dm notes/1 Characters/Talon Kratos",
+    "1 dm notes/1 Characters/Mr Nimbus",
+    "1 dm notes/1 Characters/Vuelsa",
+    "1 dm notes/1 Characters/Caroline Everly",
+    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
+    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Untitled.md",
+    "content/(main) DND-Fodlan/98 Library/items/Coinpurse of Holding.md",
+    "content/index.md",
+    "content/(main) DND-Fodlan/98 Library/Darkvision sources/index.md",
+    "content/(main) DND-Fodlan/1 Characters/Caroline/index.md",
+    "content/(main) DND-Fodlan/3 Continenten/Fodlan/index.md",
+    "2025-05-12.md",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/index.md",
+    "content/(main) DND-Fodlan/98 Library/Statblocks/index.md",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/underwatercity.jpg",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Specialportcity.jpg",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/portcitymedium.jpg",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/portcity.webp",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Port town.jpeg",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Pasted image 20240928171859.png",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Lybster_Toon.jpg",
+    "content/(main) DND-Fodlan/98 Library/Mappen/Continental/Fodlan V2.png",
+    "Untitled.canvas"
+  ]
+}

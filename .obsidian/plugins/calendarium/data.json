@@ -1,0 +1,339 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Fodlan kalender",
+      "description": "Deze kalender is gemaakt voor de custom dnd campaign genaamd Fodlan",
+      "id": "ID_b94acb693a68",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Maandag",
+            "id": "ID_8b0a5b792b08"
+          },
+          {
+            "type": "day",
+            "name": "Dinsdag",
+            "id": "ID_ea18c8ea6a58"
+          },
+          {
+            "type": "day",
+            "name": "Donderdag",
+            "id": "ID_4b29ea7a5a2b"
+          },
+          {
+            "type": "day",
+            "name": "Vrijdag",
+            "id": "ID_7848888b093b"
+          },
+          {
+            "type": "day",
+            "name": "Zaterdag",
+            "id": "ID_698b59d839e8"
+          },
+          {
+            "type": "day",
+            "name": "Zondag",
+            "id": "ID_b9f829492b6b"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Januari",
+            "length": 12,
+            "id": "ID_db29ebaadb9a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Februari",
+            "length": 12,
+            "id": "ID_cb79c9a988da",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Maart",
+            "length": 18,
+            "id": "ID_595a9bbb2a7b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "April",
+            "length": 12,
+            "id": "ID_cb1aaa1a39c8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mei",
+            "length": 12,
+            "id": "ID_9b392ab9495a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Juni",
+            "length": 18,
+            "id": "ID_b82b58d92998",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Junky",
+            "length": 12,
+            "id": "ID_4a191a29083a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Jinny",
+            "length": 12,
+            "id": "ID_5bf8cb48abe9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Junpy",
+            "length": 18,
+            "id": "ID_c95beac9b869",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Juli",
+            "length": 12,
+            "id": "ID_ca5978a83a9b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "augustus",
+            "length": 12,
+            "id": "ID_aafa1a8bea2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "September",
+            "length": 18,
+            "id": "ID_aaca295a59bb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Oktober",
+            "length": 12,
+            "id": "ID_8a389a8a38cb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "November",
+            "length": 12,
+            "id": "ID_da9bd8788a5b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "December",
+            "length": 18,
+            "id": "ID_c99b98c849fa",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Astro",
+            "cycle": 10,
+            "offset": 0,
+            "faceColor": "#b0f57f",
+            "shadowColor": "#000",
+            "id": "ID_8848a96b1bb8"
+          },
+          {
+            "name": "Verto",
+            "cycle": 14,
+            "offset": 5,
+            "faceColor": "#ffb3b3",
+            "shadowColor": "#000",
+            "id": "ID_196bc9181978"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_db187a0a9aaa",
+            "name": "Spring",
+            "color": "#51d65e",
+            "type": "Dated",
+            "kind": "None",
+            "month": 0,
+            "day": 1,
+            "weatherOffset": 19,
+            "weatherPeak": 1.9000000000000001
+          },
+          {
+            "id": "ID_dae9cb082be8",
+            "name": "Summer",
+            "color": "#53fcee",
+            "type": "Dated",
+            "kind": "None",
+            "month": 3,
+            "day": 1,
+            "weatherOffset": 19,
+            "weatherPeak": 1.9000000000000001
+          },
+          {
+            "id": "ID_c9da686ba8fa",
+            "name": "Vernal",
+            "color": "#efbbf9",
+            "type": "Dated",
+            "kind": "None",
+            "month": 6,
+            "day": 1,
+            "weatherOffset": 19,
+            "weatherPeak": 1.9000000000000001
+          },
+          {
+            "id": "ID_cb6928eaba09",
+            "name": "Autumn",
+            "color": "#f7ada3",
+            "type": "Dated",
+            "kind": "None",
+            "month": 9,
+            "day": 1,
+            "weatherOffset": 19,
+            "weatherPeak": 1.9000000000000001
+          },
+          {
+            "id": "ID_c8b919889b7b",
+            "name": "Winter",
+            "color": "#a26bf4",
+            "type": "Dated",
+            "kind": "None",
+            "month": 12,
+            "day": 1,
+            "weatherOffset": 19,
+            "weatherPeak": 1.9000000000000001
+          }
+        ],
+        "offset": 0,
+        "type": "Dated",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": -37818029,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": [
+          {
+            "name": "Fodlan",
+            "id": "ID_299939a84a19",
+            "seasons": {
+              "ID_db187a0a9aaa": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_dae9cb082be8": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_c9da686ba8fa": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "None"
+              },
+              "ID_cb6928eaba09": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_c8b919889b7b": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              }
+            }
+          }
+        ],
+        "defaultLocation": "ID_299939a84a19"
+      },
+      "current": {
+        "day": 5,
+        "month": 2,
+        "year": 891
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [],
+  "autoParse": true,
+  "defaultCalendar": "ID_b94acb693a68"
+}

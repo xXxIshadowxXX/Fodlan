@@ -1,0 +1,429 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Worldmap",
+      "lastAccessed": 1714127868985,
+      "markers": [
+        {
+          "id": "ID_5b88e9895959",
+          "type": "default",
+          "loc": [
+            -0.010495901107788086,
+            0.011526107788085938
+          ],
+          "link": "Tow",
+          "layer": "WorldfileV1.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "dorpje tow",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e91b9aaa083a",
+          "type": "Building",
+          "loc": [
+            -0.012951660435646772,
+            0.011560058686882257
+          ],
+          "link": "Lybster",
+          "layer": "WorldfileV1.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.36992187798023224,
+            0.5526041785875956
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3 Maps/World map.md"
+      ]
+    },
+    {
+      "id": "Capital City",
+      "lastAccessed": 1717152619423,
+      "markers": [
+        {
+          "id": "ID_68f83b096979",
+          "type": "Building",
+          "loc": [
+            -0.016627788543701172,
+            0.02703857421875
+          ],
+          "link": "Kingscastle",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f92be828390b",
+          "type": "Building",
+          "loc": [
+            -0.036333280814695355,
+            0.018536521149879283
+          ],
+          "link": "Worn Hearth tavern",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0b8afbe8189b",
+          "type": "Building",
+          "loc": [
+            -0.013351447258675056,
+            0.038238318367387766
+          ],
+          "link": "Ironforge Smithy",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b93b086b596b",
+          "type": "Quest!",
+          "loc": [
+            -0.022818565368652344,
+            0.028411865234375
+          ],
+          "link": "Angst op het plein",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa9bf9190bdb",
+          "type": "Quest!",
+          "loc": [
+            -0.013510704040527344,
+            0.03887939453125
+          ],
+          "link": "Metaaltekort bij de smit",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ab83b8b6bab",
+          "type": "Building",
+          "loc": [
+            -0.012747764587402344,
+            0.0201416015625
+          ],
+          "link": "Fennel's general store",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8ba2aeb9a09",
+          "type": "Building",
+          "loc": [
+            -0.012839317321777344,
+            0.03314208984375
+          ],
+          "link": "Emberheart forge",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8fa3838aa39",
+          "type": "Building",
+          "loc": [
+            -0.019171142019331455,
+            0.03330078162252903
+          ],
+          "link": "Merchant guild",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5328125059604645,
+            0.40898436307907104
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68e8ea189aba",
+          "type": "Building",
+          "loc": [
+            -0.01572036719880998,
+            0.02769775502383709
+          ],
+          "link": "Throne room",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_398b487bd95a",
+          "type": "Building",
+          "loc": [
+            -0.03830337733961642,
+            0.05059204250574112
+          ],
+          "link": "Secret fightclub",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29596999f8cb",
+          "type": "Building",
+          "loc": [
+            -0.01799697964452207,
+            0.02048339881002903
+          ],
+          "link": "Kerk van weinig geloof",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb48abcaca9a",
+          "type": "Building",
+          "loc": [
+            -0.014501952566206455,
+            0.02628173865377903
+          ],
+          "link": "Military barracks",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4205078184604645,
+            0.30937498807907104
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b89bd808d998",
+          "type": "Building",
+          "loc": [
+            -0.03638916090130806,
+            0.04864501953125
+          ],
+          "link": "RodeRoos bordeel",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7783203125,
+            0.7763020992279053
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5ba85a2b4899",
+          "type": "Building",
+          "loc": [
+            -0.015591367864566838,
+            0.030793499046423443
+          ],
+          "link": "Instituut van magie",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_189ac84a2bb8",
+          "type": "Building",
+          "loc": [
+            -0.030600547790527344,
+            0.020751953125
+          ],
+          "link": "The Powder Keg",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a808eac8a949",
+          "type": "Quest!",
+          "loc": [
+            -0.030561828520148993,
+            0.05063171312212944
+          ],
+          "link": "What happened to nariel",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9ad848cb2868",
+          "type": "default",
+          "loc": [
+            -0.0180458074901253,
+            0.01379852369427681
+          ],
+          "link": "Alden greenfield",
+          "layer": "Lybster_Toon.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "alden greenfield",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "2 countries/Zidor/Lyra/Lybster/Lybster.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#eeff00",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Building",
+      "iconName": "map-marker",
+      "color": "#006cfa",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Quest!",
+      "iconName": "map-marker",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
