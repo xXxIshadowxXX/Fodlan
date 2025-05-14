@@ -59,9 +59,59 @@ The royal family, which has ruled Faerghus for over 400 years. Unfortunately, al
 #### House Fraldarius
 House Fraldarius has served as the allies of the royal family for generations. Kyphon, the friend of Loog, was of house Fraldarius. The house holds great respect and admiration from the people of Faerghus. The house is descended from Fraldarius of the Ten Elites, and thus bear her Crest. They also possess the Aegis Shield, Fraldarius' Relic. The current head of Fraldarius, Rodrigue, also known as the "Shield of Faerghus" spearheads the rebellion against the Empire
 
+c Locations in the Dukedom
+The dukedom of Fraldarius occupies the Northeastern edge of Faerghus.
+* **Fraldarius** is a coastal city that serves as the seat of power for house Fraldarius. The city gains much of its profits from trade with the Alliance. The smiths of Fraldarius are also known to be experts of the craft. 
+* **Conand Tower** is a large tower that stands several hundred feet above the plains. The fortification serves for both defense and intel, allowing soldiers to see enemies from miles away.
+
+#### House Gautier
+The house of Gautier has gained significant power within the last fifteen years. The house was given control of the border to the Sreng region, and are tasked with keeping out the war bands that often attempt to raid the borderlands. They have often placed a large importance on Crests, even before inheriting the region, as they want each heir to be capable of using their relic, the Lance of Ruin. As descendants of the Hero Gautier, the family bears his Crest and holds his relic. Geutier's cavalry is unmatched within the Kingdom, and their new use of hit-and-run tactics has proven effective, even if they are seen as cowardly by some, including Margrave Matthias himself.
+
+###### Locations in the Dukedom
+House Gautier was given territory in the border of Sreng, and control the mountain range that separates the two regions.
+* **Gautier** is a fortress city built to withstand heavy assault from either side. The mountainous regions provide natural defenses and abundant lumber and fishing resources.
+
+#### House Galatea
+House Galatea was formed from a split within house Daphnel. Several of Daphnel's members split off to join the Kingdom, and were granted a small county in exchange for their loyalty. Now, the house faces numerous struggles, and is on the verge of collapse. Due to being related to house Daphnel, they possess Daphnel's Crest, and took with them the Hero's Relic Lúin.  though with their limited resources they can barely defend their own territory, in a case of war. This puts the house in an extremely dangerous position.
+
+###### Locations in the County
+Galatea territory is small and underdeveloped, but has the advantage of easy access to the Alliance, as it resides right at the border.
+* **Galatea** is a small town at the border of the Kingdom and Alliance. A blight struck in 1172, and the region has had a hard time recovering. Its only major export is its stock of horses.
+
+#### House Charon
+A house of counts near the Oghma Mountains, house Charon served as the original mediator between the Church of Seiros during the War of the Eagle and Lion. Since then the house has performed a similar role, as well as hosting various ceremonial competitions. House Charon bears the aptly named Crest of Charon, and are descended from that Elite. They once owned the legendary weapon Thunderbrand, but allowed the Church to give it to a prominent member of the knights of Seiros. The house had a large scandal about 7 years ago, when their heir, Cassandra, was accused of having been a conspirator in the tragedy of Duscur. Luckily the family is large, and there are more than enough potential heirs to take her place. House Charon used much of its resources in helping with the suppression of the Western Church just three years ago, and have little in the ways of soldiers
+
+###### Locations in the County
+* **Charon** is a small town north of Garreg Mach. The town is known for hosting regular fighting tournaments for entertainment and religious purposes. While the prize pools have decreased or been abandoned altogether due to the war, volunteers still perform to keep morale high and to get in some good training.
+
+#### House Kleiman
+House Kleiman is one of the more up-and-coming houses. Having been given authority over Duscur about 7 years ago. The people of Kleiman are especially cruel against the people of Duscur, keeping many of them as slaves. The house bears no Crest in its bloodline.
+
+###### Locations in the Viscounty
+Kleiman territory encompasses the lands formerly known as southern Duscur.
+* **Kleiman** is the stronghold that stands at the border between Duscur and the Kingdom. Its mountainous terrain make it perfectly suited for preventing attack from the north, but the territory is practically defenseless from the south. Duscur, or actually, south 
+* **Duscur**, has been subjugated by house Kleiman.
+
+#### House Dominic
+House Dominic quite possibly is the smallest of any house descended directly from the 10 Elites. The house occupies very little territory and holds very little influence compared to most other houses. The house has served as the guards to the royal family for generations. House Dominic is descended from the Elite of the same name, and bears his Crest. They also have possession of Crusher, the Hero Relic of Dominic. House Dominic's former Baron, Gustave, went into selfimposed exile after the tragedy of Duscur. His brother now serves as the new Baron Dominic, and takes care of the former Baron's lands and family
+
+###### Locations in the Barony
+* **Dominic** is a small fortified town that serves as the Kingdom's main trading port with Albinea, which, while not lucrative, does give the barony the edge it needs to stay afloat.
 
 ### Minor houses of the Kingdom
 Some houses are not large and/or established enough to warrant their own sections. Such houses are listed here.
+* **House Ifan** is known for its orchards and distilled spirits, which are historically beloved by even kings and emperors. They are currently neutral in the conflict, but under great pressure
+* **House Geraint** boasts a sizable agricultural industry due to its fertile lands adjacent to the Taranus River. 
+	Controlls: Geraint
+* **House Belinus** has little in the way of notable industry, but has historical value as the region where Loog and his allies first battled. 
+* **House Gideon** has a small but stable gold industry. 
+* **House Elidure** is known for its odd culture 
+* **House Enid** is known for its wool production. 
+	Controlls: Enid
+* **House Pryderi** controls several profitable salt mines. 
+	controlls: Pryderi 
+* **House Brennius** is known for its fine bladesmithing.
+	controlls: Brennius
 
 ### Abolished houses of the Kingdom
 In recent years, political turmoil has left certain houses without the needed heirs, or with heirs unable or unwilling to take over the family.
