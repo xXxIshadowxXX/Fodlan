@@ -1,20 +1,23 @@
 
 ### Garreg mach monestery 
-In het centrum van de Oghma-bergen. Het hart van de Order of Spur, Dit speciale 'land' word door de Orde bestuurd en word vaak gezien als een vorm van centrale overheid voor het hele continent. Landen werken nou samen met de order in geval van calamiteiten.
-Dit 'land' dient ook als het hoofd van de religies voor de [[Goden]]: Helm, Lathander, Mystra, Oghma, Selune, tymora, Tyr, Umberlee and Waukeen.
+Located in the heart of the Oghma Mountains, it is the center of the Church of Seiros. This special "land" is governed by the church and is often seen as a form of central government for the entire continent. Countries now cooperate with the church in times of calamities.  
+This "land" also serves as the head of the religions for the [[Goden]]: Helm, Lathander, Mystra, Oghma, Selûne, Tymora, Tyr, Umberlee, and Waukeen.
+
+### Seiros
+Seiros was a saint who, in the imperial year 1, began uniting the people of Fódlan. This saint was endowed with powers from the gods: Helm, Lathander, Mystra, Oghma, Selûne, Tymora, Tyr, Umberlee, and Waukeen. Since then, this saint has been seen as a representative of these religions of good, uniting them in a common cause.
 
 ### Culture 
-Het culturele centrum van het continent, hier komen topambachtslieden, geleerden en vanalles en nog wat uit heel fodlan naartoe. De klooster herbergdt een officiers accedemy en is een soort universiteit niet alleen voor commoners om beter te worden in hun proffesie. Maar ook (voornamelijk) voor nobels die graag geld geven om de elitaire opleiding aan hun kinderen te geven.
+The cultural center of the continent, where top craftsmen, scholars, and various people from all over Fódlan come. The monastery houses an officer's academy and serves as a sort of university not only for commoners to improve in their profession, but also (mainly) for nobles who generously pay to provide their children with elite education.
 
 ### Ecology 
-Gelegen in de bergen, met rivieren die geschikt zijn voor landbouw. De omgeving bied ruimte aan boeren en ambachten, die de vele mensen die zich in het 'land' bevinden kunnen bedienen
+Situated in the mountains with rivers suitable for agriculture, the surrounding area offers space for farmers and craftsmen, who serve the many people living in the "land."
 
 ### Economy 
-Een bloeiende economie dankzij het feit dat dit het religeuze hoofdkantoor van het continent is, een andere grote bron van inkomsten is de nobles die hier voor scholing komen en ook de normale mensen die hier voor scholing komen leveren veel op voor dit land.
+A thriving economy thanks to the fact that this is the religious headquarters of the continent. Another significant source of income comes from the nobles who come here for education, as well as the common folk who also contribute to the economy through their pursuit of education.
 
 ### People of Garreg mach
-Garreg Mach is het spirituele en intellectuele hart van Fodlan. De bevolking leeft in dienst van de Orde, met een diep respect voor orde, traditie en de goden. Dagelijkse rituelen, gebeden en feestdagen van heiligen bepalen het ritme van het leven.
+Garreg Mach is the spiritual and intellectual heart of Fódlan. The population lives in service to the Order, with a deep respect for order, tradition, and the gods. Daily rituals, prayers, and saintly feast days determine the rhythm of life.
 
-Inwoners zijn divers: van monniken en studenten tot ambachtslieden en boeren. Iedereen heeft een rol, en hiërarchie wordt aanvaard als natuurlijk. Kennis, discipline en dienstbaarheid staan hoog in het vaandel, vooral binnen de Officer’s Academy, waar toekomstige leiders van Fódlan worden opgeleid.
+The inhabitants are diverse: from monks and students to craftsmen and farmers. Everyone has a role, and hierarchy is accepted as natural. Knowledge, discipline, and service are highly valued, especially within the Officer’s Academy, where future leaders of Fódlan are trained.
 
-Hoewel de cultuur formeel is, heerst er onderling respect. Kunst, met name religieuze muziek en beeldhouwwerk, speelt een belangrijke rol in het openbare leven. De gemeenschap voelt zich als één lichaam: toegewijd aan geloof, onderwijs en harmonie.
+Although the culture is formal, there is mutual respect. Art, particularly religious music and sculpture, plays an important role in public life. The community feels as one body, devoted to faith, education, and harmony.

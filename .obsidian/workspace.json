@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus/The Kingdom of Faerghus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Kingdom of Faerghus"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 260.5
   },
   "right": {
     "id": "eb4a25a303b06e9f",
@@ -136,12 +136,11 @@
               "state": {
                 "calendar": "ID_b94acb693a68",
                 "ephemeral": {
-                  "viewing": null,
-                  "viewState": 0,
+                  "viewState": 1,
                   "displaying": {
                     "day": 5,
                     "month": 2,
-                    "year": 891
+                    "year": 1180
                   },
                   "displayDayNumber": true,
                   "displaySeasonColors": true,
@@ -233,11 +232,23 @@
   },
   "active": "2162066b9e8a9f41",
   "lastOpenFiles": [
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Adrestian Empire/Adrestian Empire.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus/The Kingdom of Faerghus.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Garreg mach monestery/Garreg mach monestery.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Leicester Alliance/The Leicester Alliance.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus",
+    "content/(main) DND-Fodlan/4 Game mechanics/Crests.md",
+    "content/(main) DND-Fodlan/4 Game mechanics",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
+    "Gods.md",
+    "node_modules/rw/README.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Adrestian Empire",
+    "README.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Leicester Alliance",
     "CODE_OF_CONDUCT.md",
     "Untitled",
     "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
     "content/(main) DND-Fodlan/2 Sessions/Session 0/Goden.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Garreg mach monestery/Garreg mach monestery.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
     "content/(main) DND-Fodlan/3 Continenten/Almyra/Almyra.md",
     "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
@@ -251,25 +262,14 @@
     "content/(main) DND-Fodlan/3 Continenten/Morfis/Morfis.md",
     "content/(main) DND-Fodlan/3 Continenten/Almyra",
     "content/(main) DND-Fodlan/3 Continenten/Fodlan/A",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Garreg mach monestery",
     "content/(main) DND-Fodlan/3 Continenten/Morfis",
     "content/(main) DND-Fodlan/3 Continenten/Untitled.md",
     "1 dm notes/1 Characters/Ralf",
-    "1 dm notes/1 Characters/Talon Kratos",
-    "1 dm notes/1 Characters/Mr Nimbus",
-    "1 dm notes/1 Characters/Vuelsa",
-    "1 dm notes/1 Characters/Caroline Everly",
     "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
     "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Untitled.md",
     "content/(main) DND-Fodlan/98 Library/items/Coinpurse of Holding.md",
     "content/index.md",
-    "content/(main) DND-Fodlan/98 Library/Darkvision sources/index.md",
-    "content/(main) DND-Fodlan/1 Characters/Caroline/index.md",
-    "content/(main) DND-Fodlan/3 Continenten/Fodlan/index.md",
-    "2025-05-12.md",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/index.md",
-    "content/(main) DND-Fodlan/98 Library/Statblocks/index.md",
     "content/(main) DND-Fodlan/98 Library/Mappen/Towns/underwatercity.jpg",
     "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Specialportcity.jpg",
     "content/(main) DND-Fodlan/98 Library/Mappen/Towns/portcitymedium.jpg",
