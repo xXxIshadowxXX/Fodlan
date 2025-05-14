@@ -99,8 +99,11 @@ Acheron territory runs along the Airmid River
 * **The Bridge of Myrddin** Falls in Phlegathon territory, though several other houses have a say in its management. Phlegathon uses the bridge as its main leverage in political matters.
 
 ### Minor houses of the Alliance
-Some houses are not large and/or established enough to warrant their own sections. Such houses are listed here.
-* **House Lochin** Boasts a notable textile industry and rivalry with house Hymir. Bears the Crest of Cethleann. 
-	Controls: Port Meeric
+Some houses are not large and/or established enough to warrant their own sections. Such houses are listed here. 
+* **House Siward** is the hub of the Siward trading company, which is both a noble house and merchant company. 
+* **House Albany** supports travelers heading to and from Garreg Mach. 
+* **House Burgundy** serves as a middleman between the other houses of Leicester and the Church of Seiros 
+* **House Müller** boasts a thriving lumber industry. They avoid competition with Edmund due to the distance between the territories. 
+* **House Nilsson** contains the hub of the Eastern Church
 
 ### Abolished houses of the Alliance
