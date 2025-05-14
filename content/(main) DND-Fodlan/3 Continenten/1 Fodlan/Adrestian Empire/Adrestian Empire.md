@@ -69,7 +69,7 @@ House Hevring serves as the Empire's Ministry of Internal Affairs, maintaining t
 
 ###### Locations in the County
 The territories of Hevring encompass the southern regions of the mountains known as Fodlan's Fangs, as well as the areas connecting the side of the empire with aveloria The area is warm and swampy due to water from the mountains, with plants that cannot be found anywhere else in Fodlan
-* **Mozghuz** is house Hevring's main territory. The town has a prosperous mining business, gathering coal, silver, and copper from the Oghma Mountains.
+* **Mozghuz** is house Hevring's main territory. The city has a prosperous mining business, gathering coal, silver, and copper from the Oghma Mountains.
 * **Enlupmoz** a large port city settled to make the trip to Menja more easy and is the most swamped part of this territory.
 
 #### Varley
@@ -83,7 +83,7 @@ The territory of Varley is small, only encompassing a small region below Garreg 
 The family of Hrym was executed after attempting to join the Alliance and causing a rebellion. The current Viscount Hrym is actually a general who was given both the title and name by Duke Aegir, and serves only as a puppet ruler. His adopted son, the young Lord Jeritza, serves in the Empire's army. This house bears no crest. 
 
 ###### Locations in the Viscounty
-Hrym is a small town overridden with crime. Harsh taxes imposed onto the people have driven many to banditry. Many attempt to flee past the Airmid River and into Ordellia territory.
+Hrym is a small city overridden with crime. Harsh taxes imposed onto the people have driven many to banditry. Many attempt to flee past the Airmid River and into Ordellia territory.
 * **Hrym** is a small city overridden with crime. Harsh taxes imposed onto the people have driven many to banditry. Many attempt to flee past the Airmid River and into Ordellia territory, only to find similar circumstances awaiting them there.
 
 #### Fenya
@@ -91,14 +91,14 @@ House Fenya is a minor house that controls territory in the southernmost ends of
 
 ###### Locations in the Viscounty
 While Fenya started as a mining territory, the mines would eventually dry up. While this could have easily spelt doom for the region, good leadership allowed the region to switch its efforts to farming.
-* **Fenya** Is a city that makes up the majority of infrastructure in Fenya The area had a rich gem mine, but when it was depleted centuries ago, the town was able to swap production to producing oils and wines. The only purpose Fenya's old mines now serve is to harbor bandits and foolhardy prospectors, both looking to earn quick money.
+* **Fenya** Is a city that makes up the majority of infrastructure in Fenya The area had a rich gem mine, but when it was depleted centuries ago, the city was able to swap production to producing oils and wines. The only purpose Fenya's old mines now serve is to harbor bandits and foolhardy prospectors, both looking to earn quick money.
 
 #### Menya
 Distantly related to house Fenya, House Menya is a minor house that controls territory in the Westmost coasts of the Empire. The family of Menya bears no crests.
 
 ###### Locations in the Viscounty
 The viscounty of Menya heavily relies on its coastal status and proximity to Brigid. It took a significant hit in the Second Brigid and Dagda War, but was able to recover due to trading with the new vasel nation.
-* **Menya** Is a large city that makes up the majority of infrastructure in Menya. The town is known for its shipbuilding, and provides most of the ships used in the Imperial Navy.
+* **Menya** Is a large city that makes up the majority of infrastructure in Menya. The city is known for its shipbuilding, and provides most of the ships used in the Imperial Navy.
 
 ### Minor houses of the Empire
 Some houses are not large and/or established enough to warrant their own sections. Such houses are listed here.

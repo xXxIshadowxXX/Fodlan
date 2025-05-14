@@ -76,13 +76,13 @@ House Galatea was formed from a split within house Daphnel. Several of Daphnel's
 
 ###### Locations in the County
 Galatea territory is small and underdeveloped, but has the advantage of easy access to the Alliance, as it resides right at the border.
-* **Galatea** is a small town at the border of the Kingdom and Alliance. A blight struck in 1172, and the region has had a hard time recovering. Its only major export is its stock of horses.
+* **Galatea** is a small city at the border of the Kingdom and Alliance. A blight struck in 1172, and the region has had a hard time recovering. Its only major export is its stock of horses.
 
 #### House Charon
 A house of counts near the Oghma Mountains, house Charon served as the original mediator between the Church of Seiros during the War of the Eagle and Lion. Since then the house has performed a similar role, as well as hosting various ceremonial competitions. House Charon bears the aptly named Crest of Charon, and are descended from that Elite. They once owned the legendary weapon Thunderbrand, but allowed the Church to give it to a prominent member of the knights of Seiros. The house had a large scandal about 7 years ago, when their heir, Cassandra, was accused of having been a conspirator in the tragedy of Duscur. Luckily the family is large, and there are more than enough potential heirs to take her place. House Charon used much of its resources in helping with the suppression of the Western Church just three years ago, and have little in the ways of soldiers
 
 ###### Locations in the County
-* **Charon** is a small town north of Garreg Mach. The town is known for hosting regular fighting tournaments for entertainment and religious purposes. While the prize pools have decreased or been abandoned altogether due to the war, volunteers still perform to keep morale high and to get in some good training.
+* **Charon** is a small city north of Garreg Mach. The city is known for hosting regular fighting tournaments for entertainment and religious purposes. While the prize pools have decreased or been abandoned altogether due to the war, volunteers still perform to keep morale high and to get in some good training.
 
 #### House Kleiman
 House Kleiman is one of the more up-and-coming houses. Having been given authority over Duscur about 7 years ago. The people of Kleiman are especially cruel against the people of Duscur, keeping many of them as slaves. The house bears no Crest in its bloodline.
@@ -96,7 +96,7 @@ Kleiman territory encompasses the lands formerly known as southern Duscur.
 House Dominic quite possibly is the smallest of any house descended directly from the 10 Elites. The house occupies very little territory and holds very little influence compared to most other houses. The house has served as the guards to the royal family for generations. House Dominic is descended from the Elite of the same name, and bears his Crest. They also have possession of Crusher, the Hero Relic of Dominic. House Dominic's former Baron, Gustave, went into selfimposed exile after the tragedy of Duscur. His brother now serves as the new Baron Dominic, and takes care of the former Baron's lands and family
 
 ###### Locations in the Barony
-* **Dominic** is a small fortified town that serves as the Kingdom's main trading port with Albinea, which, while not lucrative, does give the barony the edge it needs to stay afloat.
+* **Dominic** is a small fortified city that serves as the Kingdom's main trading port with Albinea, which, while not lucrative, does give the barony the edge it needs to stay afloat.
 
 ### Minor houses of the Kingdom
 Some houses are not large and/or established enough to warrant their own sections. Such houses are listed here.
