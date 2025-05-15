@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
+                "file": "content/(main) DND-Fodlan/3 Continenten/Sreng/Sreng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fodlan map"
+              "title": "Sreng"
             }
           }
         ]
@@ -230,8 +230,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2162066b9e8a9f41",
+  "active": "3992406f5d8bb3a3",
   "lastOpenFiles": [
+    "content/(main) DND-Fodlan/3 Continenten/Albinea/Albinea.md",
+    "content/(main) DND-Fodlan/3 Continenten/Sreng/Sreng.md",
+    "content/(main) DND-Fodlan/3 Continenten/Sreng",
+    "content/(main) DND-Fodlan/3 Continenten/Dagda/Dagda.md",
+    "content/(main) DND-Fodlan/3 Continenten/Albinea/Untitled",
+    "content/(main) DND-Fodlan/3 Continenten/Albinea",
+    "content/(main) DND-Fodlan/3 Continenten/Duscur/Duscur.md",
+    "content/(main) DND-Fodlan/3 Continenten/Dagda",
+    "content/(main) DND-Fodlan/3 Continenten/Morfis/Morfis.md",
+    "content/(main) DND-Fodlan/3 Continenten/Brigid/Brigid.md",
+    "content/(main) DND-Fodlan/3 Continenten/Duscur",
+    "content/(main) DND-Fodlan/3 Continenten/Almyra/Almyra.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
+    "content/(main) DND-Fodlan/3 Continenten/Brigid",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/The Church of Seiros.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Avaloria/The Kingdom of Avaloria.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/Garreg mach monestery.md",
@@ -258,26 +272,12 @@
     "content/(main) DND-Fodlan/98 Library/Mappen/Towns",
     "content/(main) DND-Fodlan/98 Library/Mappen/Continental",
     "content/(main) DND-Fodlan/98 Library/Mappen/Battle",
-    "content/(main) DND-Fodlan/98 Library/items/Wapens",
     "content/(main) DND-Fodlan/98 Library/items/Coinpurse of Holding.md",
     "content/(main) DND-Fodlan/98 Library/Darkvision sources/Taverns.md",
     "content/(main) DND-Fodlan/98 Library/Darkvision sources/links of shops.md",
     "content/(main) DND-Fodlan/98 Library/Darkvision sources/Goverment and notable houses.md",
-    "content/(main) DND-Fodlan/3 Continenten/Morfis/Morfis.md",
-    "content/(main) DND-Fodlan/3 Continenten/Almyra/Almyra.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Leicester Alliance",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Adrestian Empire",
     "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/Goden.md",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/Feedback from last campaign.md",
-    "content/(main) DND-Fodlan/99 Overig/Te doen lijstje.md",
-    "content/(main) DND-Fodlan/98 Library/Statblocks",
-    "content/index.md",
-    "content/(main) DND-Fodlan/4 Game mechanics/Crests.md",
     "Untitled.canvas"
   ]
 }
