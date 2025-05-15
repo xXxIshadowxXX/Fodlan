@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Leicester Alliance/The Leicester Alliance.md",
+                "file": "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Leicester Alliance"
+              "title": "Fodlan map"
             }
           }
         ]
@@ -232,13 +232,16 @@
   },
   "active": "2162066b9e8a9f41",
   "lastOpenFiles": [
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/The Church of Seiros.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Avaloria/The Kingdom of Avaloria.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/Garreg mach monestery.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus/The Kingdom of Faerghus.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Leicester Alliance/The Leicester Alliance.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Garreg mach monestery/Garreg mach monestery.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Adrestian Empire/Adrestian Empire.md",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
     "1 dm notes/1 Characters/Caroline Everly/Beauty (horse).md",
     "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Avaloria",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
     "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20250514195434.png",
     "content/(main) DND-Fodlan/98 Library/Mappen/Towns/underwatercity.jpg",
     "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Specialportcity.jpg",
@@ -264,7 +267,7 @@
     "content/(main) DND-Fodlan/3 Continenten/Almyra/Almyra.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Leicester Alliance",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Garreg mach monestery",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Adrestian Empire",
@@ -273,10 +276,8 @@
     "content/(main) DND-Fodlan/2 Sessions/Session 0/Feedback from last campaign.md",
     "content/(main) DND-Fodlan/99 Overig/Te doen lijstje.md",
     "content/(main) DND-Fodlan/98 Library/Statblocks",
-    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen",
     "content/index.md",
     "content/(main) DND-Fodlan/4 Game mechanics/Crests.md",
-    "Gods.md",
     "Untitled.canvas"
   ]
 }

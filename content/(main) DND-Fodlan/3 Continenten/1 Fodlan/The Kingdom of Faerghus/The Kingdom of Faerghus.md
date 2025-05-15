@@ -1,8 +1,5 @@
 A kingdom of knights and warriors
 
-
-The oldest of the four countries, the Adrestian Empire has slowly changed from the centerpoint of the church and into an anti-religious land of scholars.
-
 ### History of the Kingdom
 #### Origins
 The Kingdom was once a large combination of regions in the Empire, but in Imperial Year 747, Loog of House Blaiddyd declared war, intending to separate from the Empire. He was assisted by his allies Kyphon and Pan. Four years later, in 751, the kingdom claimed victory over the Empire, and the Church of Seiros negotiated peace between the nations. The Kingdom of Faerghus was declared an independent nation, with the condition that the Church of Seiros be the official religion
