@@ -356,6 +356,312 @@
       "files": [
         "2 countries/Zidor/Lyra/Lybster/Lybster.md"
       ]
+    },
+    {
+      "id": "Aegir territory",
+      "lastAccessed": 1747385167116,
+      "markers": [
+        {
+          "id": "ID_28d98be8abca",
+          "type": "City",
+          "loc": [
+            2596,
+            6310
+          ],
+          "link": "Locations in Boramas",
+          "layer": "%5B%5BFodlan%20house%20Aegir%20territory.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            14.179775280898877,
+            -5.0703125
+          ],
+          "description": "Boramas is the capital city of house Aegir. It is a shining territory with wealth displayed around every corner. The city originally had problems with poor people being cast into the shadows and brought to starvation, but now the young lord has taken care that all peoples are given a chance to thrive in the domain.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b794949daea",
+          "type": "City",
+          "loc": [
+            3531,
+            2740
+          ],
+          "link": "Locations in Rusalka",
+          "layer": "%5B%5BFodlan%20house%20Aegir%20territory.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            6.157303370786517,
+            -6.896484375
+          ],
+          "description": "Rusalka is a small territory to the west of boramas, filled with lakes and a small village. The area is home to all sorts of wandering monsters, demonic or otherwise, making it a good place for hunters to find good (if dangerous) work. The area was originally ruled by house Martritz, but when the house was abolished it was taken in by Aegir, who imposed taxes on the land and otherwise let it run itself.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md"
+      ]
+    },
+    {
+      "id": "Public Boramas city",
+      "lastAccessed": 1747385769298,
+      "markers": [
+        {
+          "id": "ID_2b4abb793979",
+          "type": "Building",
+          "loc": [
+            2160.9183233060894,
+            2737.9174567543123
+          ],
+          "link": "pBoramas Adventurers guild",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.05908203125,
+            -0.062174479166666664
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md"
+      ]
+    },
+    {
+      "id": "Boramas city",
+      "lastAccessed": 1747385791823,
+      "markers": [
+        {
+          "id": "ID_695929a828ab",
+          "type": "Building",
+          "loc": [
+            5291.5,
+            4252
+          ],
+          "link": "Boramas Harbor",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ebabd969eb39",
+          "type": "Building",
+          "loc": [
+            2713.75,
+            1286
+          ],
+          "link": "Boramas Public Maze",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_590a4839aa29",
+          "type": "Building",
+          "loc": [
+            3667.5,
+            2724
+          ],
+          "link": "Boramas Aegir castle",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa78ba29293a",
+          "type": "Building",
+          "loc": [
+            3451.9185290574287,
+            3568.060817867319
+          ],
+          "link": "Boramas Tavern Aier",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_892b1979fbc8",
+          "type": "Building",
+          "loc": [
+            3795.5,
+            4012
+          ],
+          "link": "Boramas outlook tower",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ca5988f989",
+          "type": "Building",
+          "loc": [
+            4064.4497782602757,
+            3552.5044686812153
+          ],
+          "link": "Boramas Church of seiros",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.07666015625,
+            -0.116943359375
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79dbbb5bd9d9",
+          "type": "Building",
+          "loc": [
+            2960,
+            4256
+          ],
+          "link": "Boramas market",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.09184101747833087,
+            -0.08516585580697349
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8ebca7baa3b",
+          "type": "Building",
+          "loc": [
+            3082.9855659733475,
+            523.2590180780452
+          ],
+          "link": "Boramas Garrison",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.01129150390625,
+            -0.08870442708333333
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e938bac98889",
+          "type": "Building",
+          "loc": [
+            4127.912611871769,
+            2507.4006460874975
+          ],
+          "link": "Boramas clock tower",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08082aea0aea",
+          "type": "Building",
+          "loc": [
+            969.75,
+            6734
+          ],
+          "link": "Boramas second harbor",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b5ba9fb3a58",
+          "type": "Building",
+          "loc": [
+            948.7605236570503,
+            1076.2165209659254
+          ],
+          "link": "Boramas Farm Aegir",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_882ac9faa809",
+          "type": "Building",
+          "loc": [
+            2133.75,
+            2682
+          ],
+          "link": "Boramas adventurers guild",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -400,6 +706,22 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#c85683",
+      "alpha": 0.98,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
@@ -419,7 +741,59 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[Fodlan house Aegir territory.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Fodlan house Aegir territory.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "MapCalcExample",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        2048,
+        1642
+      ]
+    ],
+    "width": "100%",
+    "lat": 1024,
+    "long": 821,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

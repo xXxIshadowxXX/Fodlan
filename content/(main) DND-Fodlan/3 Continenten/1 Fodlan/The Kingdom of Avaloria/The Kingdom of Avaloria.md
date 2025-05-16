@@ -71,7 +71,7 @@ house Rowe is regarded with mixed renown, some believe them to be the new standa
 The county of Rowe covers a large area in the north of Avaloria
 * **Rindeston** is the base of operations for the Western Church. 
 #### House Gaspard
-In 1180, Lord Lonato of Gaspard assisted in the rebellion of the Western Church. He was killed in battle, but his actions were known around the continent. Now, his adoptive son Ashe is set to inherit the lands, along with his siblings. The Gaspard line has been wiped out, but their legacy continues. Neither bloodline ever contained a Crest.
+In 1180, Lord Lonato of Gaspard assisted in the rebellion of the Western Church. He was killed in battle, but his actions were known around the country. Now, his adoptive son Ashe is set to inherit the lands, along with his siblings. The Gaspard line has been wiped out, but their legacy continues. Neither bloodline ever contained a Crest.
 
 ###### Locations in the Territory
 Gaspard territory lies south of Rowe, and next to the Church of Seiros and the [[The Kingdom of Faerghus]] border.
