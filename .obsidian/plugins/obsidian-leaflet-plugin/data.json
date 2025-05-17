@@ -441,7 +441,7 @@
     },
     {
       "id": "Boramas city",
-      "lastAccessed": 1747385791823,
+      "lastAccessed": 1747498060587,
       "markers": [
         {
           "id": "ID_695929a828ab",
@@ -655,12 +655,29 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb192859a838",
+          "type": "Building",
+          "loc": [
+            3836.5846180229105,
+            5528.160815316429
+          ],
+          "link": "Boramas Discount shop",
+          "layer": "%5B%5BBoramas.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md"
+        "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md"
       ]
     }
   ],
