@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Discount shop.md",
+                "file": "1 dm notes/2 Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boramas Discount shop"
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "09cfc38325ce9ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Locations in the Dukedom"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +151,11 @@
               "state": {
                 "calendar": "ID_b94acb693a68",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 5,
+                    "month": 2,
+                    "year": 1180
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 5,
@@ -149,7 +169,8 @@
                   "displayWeather": true,
                   "location": "ID_299939a84a19"
                 },
-                "id": "ID_79ea1b892a4b"
+                "id": "ID_79ea1b892a4b",
+                "child": "ID_e86bca49b81a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -212,6 +233,26 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "770d4c225fec9311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9cd883eeb00273",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_b94acb693a68",
+                "id": "ID_e86bca49b81a",
+                "parent": "ID_79ea1b892a4b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,49 +271,49 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2162066b9e8a9f41",
+  "active": "09cfc38325ce9ee7",
   "lastOpenFiles": [
-    "1 dm notes/2 Sessions/~WRL1393.tmp",
-    "1 dm notes/2 Sessions/~WRD1365.tmp",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Discount shop.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/The Church of Seiros.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/Garreg mach monestery.md",
     "1 dm notes/2 Sessions/Session 1.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/The Adrestian Empire.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/pBoramas Adventurers guild.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Discount shop.md",
+    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
+    "1 dm notes/1 Characters/Caroline Everly/Beauty (horse).md",
+    "1 dm notes/1 Characters/Caroline Everly/Story.md",
+    "content/(main) DND-Fodlan/98 Library/Darkvision sources/Taverns.md",
+    "content/(main) DND-Fodlan/98 Library/Darkvision sources/links of shops.md",
+    "content/(main) DND-Fodlan/98 Library/Darkvision sources/Goverment and notable houses.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Aegir castle.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Church of seiros.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas adventurers guild.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/Goden.md",
+    "1 dm notes/2 Sessions/~$orbereiding Sessie1.docx",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
+    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus/The Kingdom of Faerghus.md",
+    "1 dm notes/2 Sessions/~WRL1393.tmp",
+    "1 dm notes/2 Sessions/~WRD1365.tmp",
     "content/(main) DND-Fodlan/98 Library/~$orbereiding Sessie.docx",
     "content/(main) DND-Fodlan/98 Library/~WRL3101.tmp",
     "content/(main) DND-Fodlan/98 Library/~WRD0005.tmp",
     "content/(main) DND-Fodlan/98 Library/Voorbereiding Sessie.docx",
     "1 dm notes/2 Sessions",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Public Maze.md",
-    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
     "Pasted image 20250517153248.png",
     "Pasted image 20250517152341.png",
     "1 dm notes/1 Characters/Vuelsa/Story.md",
-    "1 dm notes/1 Characters/Ralf Everly/Story.md",
-    "1 dm notes/1 Characters/Talon Kratos/Story.md",
-    "1 dm notes/1 Characters/Caroline Everly/Story.md",
-    "1 dm notes/1 Characters/Mr Nimbus/Story.md",
-    "1 dm notes/1 Characters/Talon Kratos/Niek Character.md",
-    "1 dm notes/1 Characters/Ralf Everly/Mart Character.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/pBoramas Adventurers guild.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/The Adrestian Empire.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas adventurers guild.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Farm Aegir.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas second harbor.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas clock tower.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Garrison.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas outlook tower.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas market.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Church of seiros.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Tavern Aier.md",
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory.png",
     "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Schermafbeelding 2025-05-15 184735.png",
     "Boramas.png",
-    "content/(main) DND-Fodlan/98 Library/Mappen/Provincial",
-    "content/(main) DND-Fodlan/98 Library/Mappen/New folder",
     "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Boramas.png",
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory 1.png",
     "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Ferdinand von Aegir.webp",

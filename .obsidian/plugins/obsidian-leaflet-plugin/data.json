@@ -358,57 +358,6 @@
       ]
     },
     {
-      "id": "Aegir territory",
-      "lastAccessed": 1747385167116,
-      "markers": [
-        {
-          "id": "ID_28d98be8abca",
-          "type": "City",
-          "loc": [
-            2596,
-            6310
-          ],
-          "link": "Locations in Boramas",
-          "layer": "%5B%5BFodlan%20house%20Aegir%20territory.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            14.179775280898877,
-            -5.0703125
-          ],
-          "description": "Boramas is the capital city of house Aegir. It is a shining territory with wealth displayed around every corner. The city originally had problems with poor people being cast into the shadows and brought to starvation, but now the young lord has taken care that all peoples are given a chance to thrive in the domain.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_1b794949daea",
-          "type": "City",
-          "loc": [
-            3531,
-            2740
-          ],
-          "link": "Locations in Rusalka",
-          "layer": "%5B%5BFodlan%20house%20Aegir%20territory.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            6.157303370786517,
-            -6.896484375
-          ],
-          "description": "Rusalka is a small territory to the west of boramas, filled with lakes and a small village. The area is home to all sorts of wandering monsters, demonic or otherwise, making it a good place for hunters to find good (if dangerous) work. The area was originally ruled by house Martritz, but when the house was abolished it was taken in by Aegir, who imposed taxes on the land and otherwise let it run itself.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md"
-      ]
-    },
-    {
       "id": "Public Boramas city",
       "lastAccessed": 1747385769298,
       "markers": [
@@ -441,7 +390,7 @@
     },
     {
       "id": "Boramas city",
-      "lastAccessed": 1747498060587,
+      "lastAccessed": 1747589480010,
       "markers": [
         {
           "id": "ID_695929a828ab",
@@ -678,6 +627,57 @@
       "shapes": [],
       "files": [
         "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md"
+      ]
+    },
+    {
+      "id": "Aegir territory",
+      "lastAccessed": 1747590571402,
+      "markers": [
+        {
+          "id": "ID_28d98be8abca",
+          "type": "City",
+          "loc": [
+            2596,
+            6310
+          ],
+          "link": "Locations in Boramas",
+          "layer": "%5B%5BFodlan%20house%20Aegir%20territory.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            14.179775280898877,
+            -5.0703125
+          ],
+          "description": "Boramas is the capital city of house Aegir. It is a shining territory with wealth displayed around every corner. The city originally had problems with poor people being cast into the shadows and brought to starvation, but now the young lord has taken care that all peoples are given a chance to thrive in the domain.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b794949daea",
+          "type": "City",
+          "loc": [
+            3531,
+            2740
+          ],
+          "link": "Locations in Rusalka",
+          "layer": "%5B%5BFodlan%20house%20Aegir%20territory.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            6.157303370786517,
+            -6.896484375
+          ],
+          "description": "Rusalka is a small territory to the west of boramas, filled with lakes and a small village. The area is home to all sorts of wandering monsters, demonic or otherwise, making it a good place for hunters to find good (if dangerous) work. The area was originally ruled by house Martritz, but when the house was abolished it was taken in by Aegir, who imposed taxes on the land and otherwise let it run itself.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md"
       ]
     }
   ],
