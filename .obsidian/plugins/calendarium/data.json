@@ -298,11 +298,29 @@
         "defaultLocation": "ID_299939a84a19"
       },
       "current": {
-        "day": 5,
+        "day": 8,
         "month": 2,
         "year": 1180
       },
-      "events": [],
+      "events": [
+        {
+          "name": "dag 1",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 2,
+            "year": 1180
+          },
+          "id": "ID_8b6bb9a98b08",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,

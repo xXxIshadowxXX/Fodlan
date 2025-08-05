@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md",
+                "file": "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Public Maze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locations in the Dukedom"
+              "title": "Boramas Public Maze"
             }
           }
         ],
@@ -119,64 +119,6 @@
             }
           },
           {
-            "id": "78a8359671aae466",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_788898d8fa1b",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 12,
-                    "month": 3,
-                    "year": 765
-                  },
-                  "displayDayNumber": true,
-                  "displayMoons": true
-                },
-                "id": "ID_aa79b89a080a",
-                "child": "ID_0a2a591b5809"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "44bfed8c529a8759",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_b94acb693a68",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 5,
-                    "month": 2,
-                    "year": 1180
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 5,
-                    "month": 2,
-                    "year": 1180
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true,
-                  "location": "ID_299939a84a19"
-                },
-                "id": "ID_79ea1b892a4b",
-                "child": "ID_e86bca49b81a"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
             "id": "b8fab3f4ab83709b",
             "type": "leaf",
             "state": {
@@ -226,27 +168,50 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
-              "state": {},
+              "state": {
+                "calendar": "ID_b94acb693a68",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 8,
+                    "month": 2,
+                    "year": 1180
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 6,
+                    "month": 2,
+                    "year": 1180
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_299939a84a19"
+                },
+                "id": "ID_193bdb2bd869",
+                "child": "ID_6b78090b3819"
+              },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
-        "id": "770d4c225fec9311",
+        "id": "134f930702c04636",
         "type": "tabs",
         "children": [
           {
-            "id": "2f9cd883eeb00273",
+            "id": "9f2290ad362090a0",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_b94acb693a68",
-                "id": "ID_e86bca49b81a",
-                "parent": "ID_79ea1b892a4b"
+                "id": "ID_6b78090b3819",
+                "parent": "ID_193bdb2bd869"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -274,7 +239,13 @@
   "active": "09cfc38325ce9ee7",
   "lastOpenFiles": [
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Tavern Aier.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas second harbor.md",
+    "1 dm notes/1 Characters/Vuelsa/Story.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Public Maze.md",
+    "1 dm notes/1 Characters/Vuelsa/Amber Character.md",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md",
+    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Rusalka/Locations in Rusalka.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/The Church of Seiros.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/Garreg mach monestery.md",
     "1 dm notes/2 Sessions/Session 1.md",
@@ -293,11 +264,7 @@
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas adventurers guild.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/Goden.md",
     "1 dm notes/2 Sessions/~$orbereiding Sessie1.docx",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
-    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Faerghus/The Kingdom of Faerghus.md",
     "1 dm notes/2 Sessions/~WRL1393.tmp",
     "1 dm notes/2 Sessions/~WRD1365.tmp",
     "content/(main) DND-Fodlan/98 Library/~$orbereiding Sessie.docx",
@@ -305,10 +272,8 @@
     "content/(main) DND-Fodlan/98 Library/~WRD0005.tmp",
     "content/(main) DND-Fodlan/98 Library/Voorbereiding Sessie.docx",
     "1 dm notes/2 Sessions",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Public Maze.md",
     "Pasted image 20250517153248.png",
     "Pasted image 20250517152341.png",
-    "1 dm notes/1 Characters/Vuelsa/Story.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir",
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory.png",
