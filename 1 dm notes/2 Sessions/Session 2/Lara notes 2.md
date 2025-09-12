@@ -1,0 +1,30 @@
+- Our mission was to deliver a chest with mysterious items? in it. We were forbidden to open the chest.
+- While we were on our way we discussed that the desire to open the chest was to big for all of us. What would be so important that we can't just take a little peek inside it. We stopped midden in the woods, we took the chest out of the cart. But then Talos recognized a sign that was on the chest. 
+- the chest absorbed magic
+- We set up camp while Ralf used his magic hand to try to open the chest.
+- Ralf started playing music and the chest repeated the sound
+- The code of the chest is 892 we found out after some hours of trying to figure it out with the magic hand
+- The lock was a mimic and mr nimbus needed to hold it so we could open it because it grew arms
+- There was an golden ring, golden knife, golden egg and glasses in the chest but there was 1 item missing
+- We had a long rest and i woke up with the golden egg in my mouth, Talos saw how, it was the mimic who did it
+- The next morning we kept going on the path. We saw a white flair what looked like someone was calling for help but we ignored it
+- As soon as we got into the town were we needed to deliver the chest we split up, i stayed with Ralf and Robin who was being stupid and just flirting with every woman in town'
+- The others went to deliver the chest
+- When we went back to find the others i had an deep conversation with Ralf about his lost sister(me).
+- We wanted to start a new mission for money so we went to the adventures guilt and we saw some wanted posters for a good amount of money
+- We saw a beast who looked like an insect who was 5k worth so we wanted to find him and kill him
+- We went ahead to the mountains where we were told he could be found. 
+- We found the beast inside a cave, he didn't sound very scary or dangerous and he told us he isn't dangerous.
+- There was an door behind him and we could hear an dangerous creature behind it, that creature could kill us.
+- The insect wanted to open the door so we killed him (my horse used hove's and almost killed him in 1 shot)
+- We found out that the creature behind the door was a dragon so we left as soon as possible
+- i saw a weird shadow up on the mountains
+- We followed the shadow to the top of the mountain, mr nimbus and robin climbed up first and they found a baby red dragon. 
+- i climbed after but the little dragon spitted fire at me and i almost fell but mr nimbus got me just in time
+- The dragon didn't feel that dangerous because he was small and not very smart, he was pretty annoying.
+- Mr nimbus brought him down were the others were and i tried to make him our friend
+- I told him that if he would be our friends and wouldn't eat us or my horse that we would feed him meat and be his friend and he agreed just because of the meat.
+- We discussed what we wanted to do with the baby dragon but the most of the party wanted to bring him back to his mother who was behind the door.
+- Robin, mr nimbus and ralf went back to the cave and as soon as they touched the door they were teleported to the dragons nest, the mother dragon was an ancient dragon who was really annoyd that her kid was back.
+- Ralf asked if the dragon had ever seen his sister and the dragon told him she could give him a clue in 6 days.
+- Robin has the blood in her of the red ancient dragon.

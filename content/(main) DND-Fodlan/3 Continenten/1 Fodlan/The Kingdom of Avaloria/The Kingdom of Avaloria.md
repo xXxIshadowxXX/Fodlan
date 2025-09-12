@@ -100,4 +100,4 @@ This house served as the previous Ministry of Foreign Affairs. They benefited gr
 
 ###### Locations in the Territory
 Nuvelle once occupied the far west portion of the Empire.
-* **Nuvelle** is a small city that was the seat of Nuvelle's power. Now it has found itself in the domain of house Gerth. The city has mostly recovered from the invasion, but the scars can still be seen in some parts of the city.
+* **Nuvelle** is a small city that was the seat of Nuvelle's power. Now it has found itself in the domain of house Gerth. The city has barely recovered from the invasion, and the scars can still be seen in many parts of the city. 

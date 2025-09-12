@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Public Maze.md",
+                "file": "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boramas Public Maze"
+              "title": "Locations in Boramas"
             }
           }
         ],
@@ -172,7 +172,7 @@
                 "calendar": "ID_b94acb693a68",
                 "ephemeral": {
                   "viewing": {
-                    "day": 8,
+                    "day": 10,
                     "month": 2,
                     "year": 1180
                   },
@@ -225,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -238,6 +239,8 @@
   },
   "active": "09cfc38325ce9ee7",
   "lastOpenFiles": [
+    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
+    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Tavern Aier.md",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas second harbor.md",
@@ -253,7 +256,6 @@
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/pBoramas Adventurers guild.md",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Discount shop.md",
-    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
     "1 dm notes/1 Characters/Caroline Everly/Beauty (horse).md",
     "1 dm notes/1 Characters/Caroline Everly/Story.md",
     "content/(main) DND-Fodlan/98 Library/Darkvision sources/Taverns.md",
@@ -263,7 +265,6 @@
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Church of seiros.md",
     "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas adventurers guild.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
     "1 dm notes/2 Sessions/~$orbereiding Sessie1.docx",
     "1 dm notes/2 Sessions/~WRL1393.tmp",
     "1 dm notes/2 Sessions/~WRD1365.tmp",

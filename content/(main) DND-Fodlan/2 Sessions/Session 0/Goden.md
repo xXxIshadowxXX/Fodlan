@@ -19,7 +19,6 @@ Major Deities
 - *Tyr*: God of justice.
 - *Umberlee*: Goddess of the sea.
 - *Waukeen*: Goddess of trade and wealth.
-- [Mishakal](https://en.wikipedia.org/wiki/Mishakal "Mishakal") – Lawful good goddess of healing. Mishakal's symbol is a blue infinity sign
 
 Evil Deities
 - *Asmodeus*: Lord of the Nine Hells.
