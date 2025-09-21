@@ -38,10 +38,10 @@ Ralf remembers something about the name lumine (from our bloodline).
 
 - we went to the blacksmith and rented the shop for 6 hours so Talos could make something important.
 
-- Later on we still wanted to try to capture the ghost of our mission from the wanted poster. We went to the place were other people told us that that place was hunted. There were a lot of people outside and Robin started to play with a kid who was sitting on a tree. The kid told Robin that the ghost would take people away.
-- i felt a kind of creepy feeling when robin came back.
-- Later on we found out that the kid was actually dead, the only ones who could see him were Robin and Ralf (the name of the kid was Frankie).
-- The name of the ghost we were actually looking for was Shawn, we met her because she tried to take me with her by taking me by me feet but i got away by kicking her.
-- (frankie is undead)
-- We convinced shawn to come with us to the adventures guilt (it was actually a really nice ghost who didn't mean any harm, she just wanted to scare people out of boredom) but we turned her in anyways.
-- i got the golden egg again.
+- **Later on we still wanted to try to capture the ghost of our mission from the wanted poster. We went to the place were other people told us that that place was hunted. There were a lot of people outside and Robin started to play with a kid who was sitting on a tree. The kid told Robin that the ghost would take people away.**
+- **i felt a kind of creepy feeling when robin came back.**
+- **Later on we found out that the kid was actually dead, the only ones who could see him were Robin and Ralf (the name of the kid was Frankie).**
+- **The name of the ghost we were actually looking for was Shawn, we met her because she tried to take me with her by taking me by me feet but i got away by kicking her.**
+- **(frankie is undead)**
+- **We convinced shawn to come with us to the adventures guilt (it was actually a really nice ghost who didn't mean any harm, she just wanted to scare people out of boredom) but we turned her in anyways.**
+- **i got the golden egg again.**

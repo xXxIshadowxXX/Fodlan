@@ -1,3 +1,4 @@
+rood bloed
 
 ### Crest of Lamine
  The crest of the Aegis Dragon 

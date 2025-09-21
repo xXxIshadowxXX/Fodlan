@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "92c30c54cb9ef71f",
+        "id": "00b90aaeecb3f0c8",
         "type": "tabs",
         "children": [
           {
-            "id": "2162066b9e8a9f41",
+            "id": "aaca666f6a40ae2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 dm notes/2 Sessions/Session 1.md",
+                "file": "1 dm notes/3 Sprints/Chapter 1/Active quests/Amulet Rafail Gem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
-            }
-          },
-          {
-            "id": "09cfc38325ce9ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Locations in Boramas"
+              "title": "Amulet Rafail Gem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +174,7 @@
                   "displayWeather": true,
                   "location": "ID_299939a84a19"
                 },
-                "id": "ID_193bdb2bd869",
-                "child": "ID_6b78090b3819"
+                "id": "ID_193bdb2bd869"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -198,26 +182,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "134f930702c04636",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f2290ad362090a0",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_b94acb693a68",
-                "id": "ID_6b78090b3819",
-                "parent": "ID_193bdb2bd869"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -237,34 +201,37 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "09cfc38325ce9ee7",
+  "active": "aaca666f6a40ae2a",
   "lastOpenFiles": [
-    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
-    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Tavern Aier.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas second harbor.md",
-    "1 dm notes/1 Characters/Vuelsa/Story.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Public Maze.md",
-    "1 dm notes/1 Characters/Vuelsa/Amber Character.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Rusalka/Locations in Rusalka.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/The Church of Seiros.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Church of Seiros/Garreg mach monestery.md",
-    "1 dm notes/2 Sessions/Session 1.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/The Adrestian Empire.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/pBoramas Adventurers guild.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Discount shop.md",
-    "1 dm notes/1 Characters/Caroline Everly/Beauty (horse).md",
+    "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
+    "Boramas Aegir castle.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Blacksmith.md",
+    "1 dm notes/2 Sessions/Session 3/Lara notes 3.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Ghost of Frankie.md",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests/Discovery of the 2 curses.md",
+    "1 dm notes/3 Sprints/Chapter 1/Inactive quests/De Dansende Ninja's.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Amulet Rafail Gem.md",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests/Royal guard Mash Kyrielight.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Robin the sleepwalker.md",
+    "1 dm notes/3 Sprints/Chapter 1/Inactive quests/Discovery of caroline.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Ralf unlocking bloodline abilities.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Ralf's looking for his sister.md",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests/How to tame a dragon.md",
+    "1 dm notes/2 Sessions/Session 2/Lara notes 2.md",
+    "1 dm notes/2 Sessions/Session 4/Lara notes 4.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Untitled",
     "1 dm notes/1 Characters/Caroline Everly/Story.md",
-    "content/(main) DND-Fodlan/98 Library/Darkvision sources/Taverns.md",
-    "content/(main) DND-Fodlan/98 Library/Darkvision sources/links of shops.md",
-    "content/(main) DND-Fodlan/98 Library/Darkvision sources/Goverment and notable houses.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Aegir castle.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Church of seiros.md",
-    "1 dm notes/3 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas adventurers guild.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
+    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
+    "1 dm notes/1 Characters/Ralf Everly/Story.md",
+    "1 dm notes/1 Characters/Caroline Everly/Beauty (horse).md",
+    "1 dm notes/2 Sessions/Session 1/Lara notes.md",
+    "1 dm notes/2 Sessions/Session 1/Session 1.md",
+    "Afbeelding van WhatsApp op 2025-09-18 om 19.51.10_55b0e0b9.jpg",
+    "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Story.md",
+    "1 dm notes/2 Sessions/Session 4",
+    "1 dm notes/1 Characters/Ralf Everly/Mart Character.md",
+    "1 dm notes/1 Characters/Talon Kratos/Story.md",
+    "1 dm notes/1 Characters/Vuelsa/Story.md",
     "1 dm notes/2 Sessions/~$orbereiding Sessie1.docx",
     "1 dm notes/2 Sessions/~WRL1393.tmp",
     "1 dm notes/2 Sessions/~WRD1365.tmp",
@@ -275,8 +242,6 @@
     "1 dm notes/2 Sessions",
     "Pasted image 20250517153248.png",
     "Pasted image 20250517152341.png",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir",
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory.png",
     "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Schermafbeelding 2025-05-15 184735.png",
     "Boramas.png",
@@ -284,7 +249,6 @@
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory 1.png",
     "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Ferdinand von Aegir.webp",
     "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20250514195434.png",
-    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/underwatercity.jpg",
     "Untitled.canvas"
   ]
 }
