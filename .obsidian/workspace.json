@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 dm notes/3 Sprints/Chapter 1/Active quests/Amulet Rafail Gem.md",
+                "file": "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amulet Rafail Gem"
+              "title": "Afspraken voor volgende campaign"
+            }
+          },
+          {
+            "id": "835e7479f0647538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 dm notes/1 Characters/Talon Kratos/Niek Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Niek Character"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +216,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "aaca666f6a40ae2a",
+  "active": "835e7479f0647538",
   "lastOpenFiles": [
+    "1 dm notes/2 Sessions/Session 5/Lara notes 5.md",
+    "1 dm notes/1 Characters/Talon Kratos/Niek Character.md",
+    "1 dm notes/1 Characters/Talon Kratos/Story.md",
+    "1 dm notes/2 Sessions/Session 4/Lara notes 4.md",
+    "1 dm notes/2 Sessions/Session 5",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Amulet Rafail Gem.md",
     "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
     "Boramas Aegir castle.md",
     "1 dm notes/3 Sprints/Chapter 1/Active quests/Blacksmith.md",
@@ -210,7 +231,6 @@
     "1 dm notes/3 Sprints/Chapter 1/Active quests/Ghost of Frankie.md",
     "1 dm notes/3 Sprints/Chapter 1/Completed quests/Discovery of the 2 curses.md",
     "1 dm notes/3 Sprints/Chapter 1/Inactive quests/De Dansende Ninja's.md",
-    "1 dm notes/3 Sprints/Chapter 1/Active quests/Amulet Rafail Gem.md",
     "1 dm notes/3 Sprints/Chapter 1/Completed quests/Royal guard Mash Kyrielight.md",
     "1 dm notes/3 Sprints/Chapter 1/Active quests/Robin the sleepwalker.md",
     "1 dm notes/3 Sprints/Chapter 1/Inactive quests/Discovery of caroline.md",
@@ -218,7 +238,6 @@
     "1 dm notes/3 Sprints/Chapter 1/Active quests/Ralf's looking for his sister.md",
     "1 dm notes/3 Sprints/Chapter 1/Completed quests/How to tame a dragon.md",
     "1 dm notes/2 Sessions/Session 2/Lara notes 2.md",
-    "1 dm notes/2 Sessions/Session 4/Lara notes 4.md",
     "1 dm notes/3 Sprints/Chapter 1/Active quests/Untitled",
     "1 dm notes/1 Characters/Caroline Everly/Story.md",
     "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
@@ -229,9 +248,6 @@
     "Afbeelding van WhatsApp op 2025-09-18 om 19.51.10_55b0e0b9.jpg",
     "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Story.md",
     "1 dm notes/2 Sessions/Session 4",
-    "1 dm notes/1 Characters/Ralf Everly/Mart Character.md",
-    "1 dm notes/1 Characters/Talon Kratos/Story.md",
-    "1 dm notes/1 Characters/Vuelsa/Story.md",
     "1 dm notes/2 Sessions/~$orbereiding Sessie1.docx",
     "1 dm notes/2 Sessions/~WRL1393.tmp",
     "1 dm notes/2 Sessions/~WRD1365.tmp",
@@ -239,7 +255,6 @@
     "content/(main) DND-Fodlan/98 Library/~WRL3101.tmp",
     "content/(main) DND-Fodlan/98 Library/~WRD0005.tmp",
     "content/(main) DND-Fodlan/98 Library/Voorbereiding Sessie.docx",
-    "1 dm notes/2 Sessions",
     "Pasted image 20250517153248.png",
     "Pasted image 20250517152341.png",
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory.png",
