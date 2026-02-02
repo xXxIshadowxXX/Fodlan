@@ -298,8 +298,8 @@
         "defaultLocation": "ID_299939a84a19"
       },
       "current": {
-        "day": 13,
-        "month": 2,
+        "day": 3,
+        "month": 3,
         "year": 1180
       },
       "events": [
@@ -376,14 +376,14 @@
   "parseDates": false,
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0,
     "beta": null
   },
   "debug": false,
   "askedToMoveFC": false,
   "askedAboutSync": true,
-  "syncBehavior": "Ask",
+  "syncBehavior": "Always",
   "inlineEventsTag": null,
   "paths": [],
   "autoParse": true,

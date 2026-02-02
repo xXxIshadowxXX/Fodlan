@@ -23,7 +23,7 @@ Game behavior:
 - inspiration munten staan voor punten.
 - Spelen zonder de verwachting om te stoppen binnen bepaalde tijd.
 - Eerst vragen voor rollen, anders tellen ze niet.
-- Dice rolls om tegen elkaar te persuade bijv. niet doen.
+- Dice rolls om tegen elkaar te persuade bijv. niet doen behalve goedkeuring van de dm en spelers.
 - Character overnemen door DM mag prima niet hele sessie. 
 - Er moet een overkoepelend iets, net zoals vorige campaign maar spelers kunnen doen wat ze willen. Als spelers iets te vroeg tegen komen, komt zal er in RP een waarschuwing komen. 
 - Geen main character in de serie, Iedereen mag zijn spotlicht hebben en kan ook prima een sessie duren gewoon niet de campaign, Backstories die kwa DM punten even groot zijn zodat er vanalles in kan komen.
