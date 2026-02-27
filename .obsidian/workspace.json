@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00b90aaeecb3f0c8",
+        "id": "db696aa5da7b3000",
         "type": "tabs",
         "children": [
           {
-            "id": "aaca666f6a40ae2a",
+            "id": "c089b43475db051e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 dm notes/1 Characters/Caroline Everly/Story.md",
+                "file": "1 dm notes/2 Sessions/Session 8/Mart sessie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story"
+              "title": "Mart sessie"
             }
           }
         ]
@@ -181,10 +181,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -197,54 +198,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "aaca666f6a40ae2a",
+  "active": "c089b43475db051e",
   "lastOpenFiles": [
+    "1 dm notes/2 Sessions/Session 8/Toon's notes.md",
     "1 dm notes/1 Characters/Ralf Everly/Story.md",
-    "1 dm notes/1 Characters/Caroline Everly/Story.md",
-    "1 dm notes/1 Characters/Vuelsa/Story.md",
-    "1 dm notes/1 Characters/Talon Kratos/Story.md",
-    "1 dm notes/1 Characters/Mr Nimbus/Story.md",
+    "1 dm notes/1 Characters/Ralf Everly/Mart Character.md",
+    "1 dm notes/2 Sessions/Session 8/Mart sessie.md",
+    "content/(main) DND-Fodlan/98 Library/Mappen/The Catacombs of Kas the Bloody.pdf",
+    "content/(main) DND-Fodlan/2 Sessions/Session 0/Goden.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Dungeon Crawl.md",
     "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
-    "1 dm notes/2 Sessions/sessie 7/toon.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Royal guard Mash Kyrielight.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Avaloria/The Kingdom of Avaloria.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/The Adrestian Empire.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
-    "1 dm notes/2 Sessions/Session 3/Lara notes 3.md",
-    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
-    "1 dm notes/1 Characters/Caroline Everly/Beauty (horse).md",
-    "1 dm notes/2 Sessions/sessie 7",
-    "1 dm notes/1 Characters/Vuelsa/Amber Character.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Amagi.md",
+    "content/(main) DND-Fodlan/98 Library/Statblocks/Untitled",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Ghost of Frankie.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Princess Edelguard.md",
+    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20260204205748.png",
+    "1 dm notes/1 Characters/Talon Kratos/Niek Character.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Maurice.md",
+    "1 dm notes/1 Characters/Talon Kratos/Story.md",
+    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20260204203200.png",
     "1 dm notes/1 Characters/steve/spells.md",
-    "Pasted image 20250517152341.png",
-    "1 dm notes/1 Characters/steve",
-    "Pasted image 20250517153248.png",
-    "Boramas Aegir castle.md",
-    "README.md",
-    "CODE_OF_CONDUCT.md",
-    "Afbeelding van WhatsApp op 2025-09-18 om 19.51.10_55b0e0b9.jpg",
-    "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Boramas/Boramas Discount shop.md",
-    "1 dm notes/2 Sessions/Session 5/Lara notes 5.md",
-    "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Locations in the Dukedom.md",
-    "1 dm notes/2 Sessions/Session 5",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/test1.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "z_Assets/Misc",
+    "z_Assets",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Leicester Alliance/The Leicester Alliance.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/The Adrestian Empire.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/pBoramas Adventurers guild.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md",
     "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
+    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
+    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
+    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/ancient blue dragon.png",
+    "content/(main) DND-Fodlan/98 Library/Statblocks/StatblockAncientDragon.png",
+    "content/(main) DND-Fodlan/98 Library/Statblocks/displacer beast statblock.jpg",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Untitled/Untitled",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's",
+    "content/(main) DND-Fodlan/98 Library/Statblocks/StatblockAncientDragon.png.opdownload",
+    "README.md",
+    "content/(main) DND-Fodlan/99 Overig/Pasted image 20250517153248.png",
+    "content/(main) DND-Fodlan/99 Overig/Pasted image 20250517152341.png",
+    "content/(main) DND-Fodlan/99 Overig/Afbeelding van WhatsApp op 2025-09-18 om 19.51.10_55b0e0b9.jpg",
+    "1 dm notes/3 Sprints/Chapter 1/inactive",
+    "1 dm notes/2 Sessions/Session 8",
     "content/(main) DND-Fodlan/98 Library/Mappen/Continental/Fodlan V2.png",
-    "1 dm notes/1 Characters/Mr Nimbus/Jochem Character.md",
-    "1 dm notes/3 Sprints/Chapter 1/Active quests/Amulet Rafail Gem.md",
-    "1 dm notes/4 Continenten/Adrestian Empire/House Aegir/Boramas/Locations in Boramas.md",
-    "1 dm notes/3 Sprints/Chapter 1/Active quests/Blacksmith.md",
-    "1 dm notes/3 Sprints/Chapter 1/Active quests/Untitled",
-    "1 dm notes/2 Sessions/Session 4",
-    "1 dm notes/2 Sessions/~$orbereiding Sessie1.docx",
-    "1 dm notes/2 Sessions/~WRL1393.tmp",
-    "1 dm notes/2 Sessions/~WRD1365.tmp",
-    "content/(main) DND-Fodlan/98 Library/~$orbereiding Sessie.docx",
-    "content/(main) DND-Fodlan/98 Library/~WRL3101.tmp",
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory.png",
-    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Schermafbeelding 2025-05-15 184735.png",
-    "Boramas.png",
-    "content/(main) DND-Fodlan/98 Library/Mappen/Towns/Boramas.png",
-    "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory 1.png",
-    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Ferdinand von Aegir.webp",
     "Untitled.canvas"
   ]
 }
