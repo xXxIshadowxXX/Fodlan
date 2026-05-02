@@ -8,4 +8,3 @@ The crest of the Storm Dragon, also known as the crest of the beast. Those who b
 **Major Crest:** When you use this ability, any creature hit by the attack takes necrotic damage equal to half your level (rounded up). 
 **Aspects:** Bad Luck, Speaking with Animals. 
 **Arcana:** XV, The Devil
-

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 dm notes/1 Characters/Talon Kratos/Story.md",
+                "file": "1 dm notes/2 Sessions/Session 8/Toon's notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story"
+              "title": "Toon's notes"
             }
           }
         ]
@@ -156,7 +156,11 @@
               "state": {
                 "calendar": "ID_b94acb693a68",
                 "ephemeral": {
-                  "viewing": null,
+                  "viewing": {
+                    "day": 2,
+                    "month": 4,
+                    "year": 1180
+                  },
                   "viewState": 0,
                   "displaying": {
                     "day": 6,
@@ -170,7 +174,8 @@
                   "displayWeather": true,
                   "location": "ID_299939a84a19"
                 },
-                "id": "ID_193bdb2bd869"
+                "id": "ID_193bdb2bd869",
+                "child": "ID_b838faa97aca"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -178,6 +183,26 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "8049743efd16955c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3cf7ac79e6e867f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_b94acb693a68",
+                "id": "ID_b838faa97aca",
+                "parent": "ID_193bdb2bd869"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,52 +223,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "82ac321c07a6d1f6",
+  "active": "c089b43475db051e",
   "lastOpenFiles": [
-    "1 dm notes/1 Characters/Talon Kratos/Niek Character.md",
-    "1 dm notes/2 Sessions/Session 11/Toon's notes.md",
-    "1 dm notes/2 Sessions/Session 8/Mart sessie.md",
-    "1 dm notes/2 Sessions/Session 11",
-    "1 dm notes/2 Sessions/Session 8/Toon's notes.md",
+    "1 dm notes/1 Characters/Caroline Everly/Story.md",
     "1 dm notes/1 Characters/Ralf Everly/Story.md",
-    "1 dm notes/1 Characters/Ralf Everly/Mart Character.md",
-    "content/(main) DND-Fodlan/98 Library/Mappen/The Catacombs of Kas the Bloody.pdf",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/Goden.md",
-    "1 dm notes/3 Sprints/Chapter 1/Active quests/Dungeon Crawl.md",
-    "content/(main) DND-Fodlan/2 Sessions/Session 0/Afspraken voor volgende campaign.md",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Royal guard Mash Kyrielight.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Kingdom of Avaloria/The Kingdom of Avaloria.md",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Amagi.md",
-    "content/(main) DND-Fodlan/98 Library/Statblocks/Untitled",
-    "1 dm notes/3 Sprints/Chapter 1/Active quests/Ghost of Frankie.md",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Princess Edelguard.md",
-    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20260204205748.png",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Maurice.md",
     "1 dm notes/1 Characters/Talon Kratos/Story.md",
-    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20260204203200.png",
+    "1 dm notes/1 Characters/Mr Nimbus/Story.md",
+    "1 dm notes/1 Characters/Caroline Everly/Lara Character.md",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests/Discovery of the 2 curses.md",
+    "1 dm notes/2 Sessions/sessie 12",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Robin the sleepwalker.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Ralf unlocking bloodline abilities.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Ghost of Frankie.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Dungeon Crawl.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Blacksmith.md",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests/Amulet Rafail Gem.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Royal guard Mash Kyrielight.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Maurice.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Princess Edelguard.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/Amagi.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's",
+    "1 dm notes/3 Sprints/Chapter 1/Inactive quests/De Dansende Ninja's.md",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests/Ralf's looking for his sister.md",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests/How to tame a dragon.md",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests/Discovery of caroline.md",
+    "1 dm notes/3 Sprints/Chapter 1/NPC's",
+    "1 dm notes/3 Sprints/Chapter 1/Inactive quests",
+    "1 dm notes/3 Sprints/Chapter 1/Completed quests",
+    "1 dm notes/3 Sprints/Chapter 1/Active quests",
+    "1 dm notes/3 Sprints/Chapter 1",
+    "1 dm notes/3 Sprints",
+    "1 dm notes/1 Characters/Talon Kratos/Niek Character.md",
     "1 dm notes/1 Characters/steve/spells.md",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's/test1.md",
-    "z_Assets/Misc/ImagePlaceholder.png.md",
-    "z_Assets/Misc",
-    "z_Assets",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Leicester Alliance/The Leicester Alliance.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/The Adrestian Empire.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/pBoramas Adventurers guild.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/The Adrestian Empire/House Aegir/Boramas/locations in Boramas.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan map.md",
-    "content/(main) DND-Fodlan/3 Continenten/1 Fodlan/Fodlan kalender.md",
-    "content/(main) DND-Fodlan/1 Characters/Caroline Everly/Known information.md",
+    "1 dm notes/1 Characters/Robin/Story.md",
+    "1 dm notes/1 Characters/Robin/Amber Character.md",
+    "1 dm notes/1 Characters/Ralf Everly/Mart Character.md",
+    "1 dm notes/1 Characters/Mr Nimbus/Jochem Character.md",
+    "1 dm notes/1 Characters/Talon Kratos",
+    "1 dm notes/1 Characters/steve",
+    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20260204205748.png",
+    "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/Pasted image 20260204203200.png",
     "content/(main) DND-Fodlan/98 Library/Pasted Afbeeldingen/ancient blue dragon.png",
     "content/(main) DND-Fodlan/98 Library/Statblocks/StatblockAncientDragon.png",
     "content/(main) DND-Fodlan/98 Library/Statblocks/displacer beast statblock.jpg",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's/Untitled/Untitled",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's/Active npc's",
-    "1 dm notes/3 Sprints/Chapter 1/NPC's",
-    "content/(main) DND-Fodlan/98 Library/Statblocks/StatblockAncientDragon.png.opdownload",
     "content/(main) DND-Fodlan/99 Overig/Pasted image 20250517153248.png",
     "content/(main) DND-Fodlan/99 Overig/Pasted image 20250517152341.png",
     "content/(main) DND-Fodlan/99 Overig/Afbeelding van WhatsApp op 2025-09-18 om 19.51.10_55b0e0b9.jpg",
-    "1 dm notes/3 Sprints/Chapter 1/inactive",
     "content/(main) DND-Fodlan/98 Library/Mappen/Continental/Fodlan V2.png",
     "content/(main) DND-Fodlan/98 Library/Mappen/Provincial/Fodlan house Aegir territory.png",
     "Untitled.canvas"

@@ -28,6 +28,18 @@
 ### Party Relation
 Default relation = 1
 
+<<<<<<< HEAD
+| Persoon  | Relatie-score | Reden(en)                                                    |
+| -------- | ------------- | ------------------------------------------------------------ |
+| Caroline | 1             |                                                              |
+| Nimbus   | 0             | Disruptive behavior -1                                       |
+| Ralf     | -2            | Rejected advances -3                                         |
+| Steve    | -1            | Steve is dangerous creature -2                               |
+| Talon    | 1             |                                                              |
+| Robin    | 0             | Alligned intrest +1, Respected +1, Adorable +1, Session ? -1 |
+| Frankie  | -1            | Disruptive behavior -1 , swearing -1                         |
+|          |               |                                                              |
+=======
 | Persoon  | Relatie-score | Reden(en)                                                                    |
 | -------- | ------------- | ---------------------------------------------------------------------------- |
 | Caroline | 1             |                                                                              |
@@ -38,3 +50,4 @@ Default relation = 1
 | Robin    | 3             | Alligned intrest +1, Respected +1, Adorable +1, Session ? -1, +1 saved mash, |
 | Frankie  | -1            | Disruptive behavior -1 , swearing -1                                         |
 |          |               |                                                                              |
+>>>>>>> 555a62a (lazycommit)
